@@ -1,0 +1,15 @@
+python3 -m venv .venv
+    pip3 install torch torchvision torchaudio
+    pip3 install panda
+    pip3 install numpy
+    pip3 install scikit-learn
+    pip3 install matplotlib
+    pip3 install pyown
+    pip3 install datetime
+    pip3 install pathlib
+    pip3 install dotnev
+
+set up pyowm account 
+get api key 
+make .env file 
+add .env to .gitignore
